@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConstraintLayout</string>
+    <string name="textview">Name:</string>
+    <string name="real_name">Ted</string>
+    <string name="name"> Name:</string>
+</resources>
